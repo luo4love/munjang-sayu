@@ -1,0 +1,19 @@
+{
+  "name": "문장과 사유",
+  "short_name": "문장과 사유",
+  "description": "읽고, 생각하고, 쓰고, 다시 쓰다.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3eb",
+  "theme_color": "#24443b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
